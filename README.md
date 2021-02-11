@@ -8,4 +8,5 @@
 Algumas instalações:
 
 pip install requests
+
 pip install bs4 
